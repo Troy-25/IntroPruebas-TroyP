@@ -1,7 +1,6 @@
 package org.sergiolozanoprofe;
 
 import org.sergiolozanoprofe.model.OperationType;
-import org.sergiolozanoprofe.service.CalculatorService;
 import org.sergiolozanoprofe.util.InputParser;
 
 import java.util.Scanner;

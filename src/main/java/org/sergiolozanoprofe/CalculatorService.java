@@ -1,4 +1,4 @@
-package org.sergiolozanoprofe.service;
+package org.sergiolozanoprofe;
 
 import org.sergiolozanoprofe.model.OperationType;
 
@@ -32,3 +32,5 @@ public class CalculatorService {
         return (double) a / b;
     }
 }
+
+
